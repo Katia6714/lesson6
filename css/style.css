@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{
+	margin: 141px 765px 131px 345px;
+	color: #1E212C;
+	width: 812px;
+	height: 1594px;	
+}
+
+
+h1{
+	font-family: "Lato", sans-serif;
+	font-size: 46px;
+	font-weight: 900;
+	width: 810px;
+	height: 120px;
+	line-height: 130%;
+	text-align: left;
+	vertical-align: center;
+	margin-bottom: 92px;
+}
+
+
+img{
+	width: 810px;
+	min-width: 100%;
+	margin-bottom: 60px;
+}
+
+main{
+	width: 810px;
+	font-family: "Lato", sans-serif;
+}
+.text{
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	text-align: left;
+	margin-bottom: 24px;
+}
+
+.textone{
+   font-weight: normal;
+   font-size: 16px;
+	line-height: 160%;
+	text-align: left;
+   color: #424551;
+	margin-bottom: 48px;
+}
+.texttwo{
+	padding-bottom: 20px;
+}
+.list{
+	margin-left: 58px;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	text-align: left;
+	margin-bottom: 48px;
+}
+.block{
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	text-align: left;
+	color: #424551;
+	
+}
+.item{
+	font-weight: normal;
+	font-size: 16px;
+	width: 600px;
+	margin-top: 33px;
+	margin-bottom: 15px;
+	padding-left: 30px;
+}
+.block1{
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	text-align: left;
+	color: #424551;
+}
+
+
+
+.name{
+	color: darkcyan;
+	text-align: center;
+	text-shadow: 15px 5px 5px rgba(255, 68, 0, 0.704), 5px 1px 1px rgba(153, 205, 50, 0.739), 20px 10px 10px rgb(47, 6, 6);
+	letter-spacing: 10px;
+}
+
+
+
+.name1{
+	background-color: darksalmon;
+	display: block;
+	width: 250px;
+	text-indent: 20px;
+	word-spacing: 10px;
+	overflow: visible;
+	border-radius: 25px 0px 25px 0px;
+	border: 3px dotted rgb(97, 45, 8);
+	margin-bottom: 20px;
+}
+
+
+.sova{
+border-radius: 50%;
+width: 10%;
+height: 50%;
+
+
+}
+
+.name3{
+width: 300px;
+text-transform: capitalize;
+text-align: right;
+margin: 0 0 0 auto;
+text-shadow: 1px 1px ;
+border: 20px double pink;
+
+}
+
+.name2{
+	background-color: #ffd700;
+	color: #00008b;
+	border-radius: 10px 20px 10px 20px;
+	box-shadow: 5px 0 gray;
+	padding: 15px;
+   text-decoration: none;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+
+.name4{
+	width: 200px;
+	overflow: hidden;
+	border-radius: 39% 61% 70% 30% / 39% 29% 71% 61%;
+	margin: 15px;
+	padding: 15px; 
+	background-color: fuchsia;
+}
+.name5{
+	width: 400px;
+	margin: 0 0 0 auto;
+	border: 3px dotted red;
+	padding: 10px;
+	opacity: 0.05;
+}
